@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       ApiServer
+      ApiServer.Middleware
   other-modules:
       Paths_ShopAndCook
   hs-source-dirs:

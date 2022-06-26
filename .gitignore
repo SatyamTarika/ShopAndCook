@@ -1,2 +1,16 @@
 .stack-work/
 *~
+*.cabal
+.psc-ide-port
+dist
+dist-*
+cabal-dev
+.vscode/
+*.vim
+cabal.project.local
+cabal.project.local~
+.ghc.environment.*
+*.log
+
+# load test files
+.dev/load-test/*.json
